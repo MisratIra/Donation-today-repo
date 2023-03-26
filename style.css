@@ -1,0 +1,122 @@
+body {
+	font-family: "Poppins", sans-serif;
+	margin: 0;
+}
+.div1 {
+	position: relative;
+}
+.div1-1 {
+	padding-left: 25%;
+	text-align: justify;
+	position: absolute;
+	width: 50%;
+	color: white;
+	bottom: 25%;
+}
+.div1-2 {
+	width: 65%;
+}
+.donate {
+	color: white;
+	border-radius: 5px;
+	padding: 10px;
+	background-color: rgb(56, 110, 198);
+	text-decoration: none;
+}
+
+.div2-1 {
+	margin: 0;
+	padding-left: 35%;
+	width: 35%;
+}
+.div2-1 h1 {
+	margin: 40px;
+}
+
+.div2-2 {
+	color: rgb(94, 91, 87);
+	margin-left: 25%;
+	display: flex;
+	font-size: 15px;
+}
+.div2-3 {
+	padding-right: 2%;
+}
+.div2-3 h1 {
+	text-align: center;
+}
+.tk {
+	border-top: 40%;
+	height: 65px;
+	width: 110px;
+	border-style: solid;
+	border-color: red;
+	background-color: rgb(213, 175, 175);
+	border-radius: 4px;
+}
+.div2-4 {
+	padding-left: 43%;
+	width: 40%;
+}
+.hr {
+	padding-left: 25%;
+	width: 10%;
+}
+.div2-5 {
+	padding-left: 44%;
+	width: 30%;
+	border-radius: 5px;
+}
+.donate2 {
+	color: white;
+	text-decoration: none;
+	margin-right: 30px;
+	padding: 10px;
+	height: 20px;
+	width: 110px;
+	border-radius: 5px;
+	background-color: rgb(171, 69, 69);
+}
+.div3 {
+	padding: 4%;
+	font-size: 14px;
+	display: flex;
+}
+.div3-1 {
+	margin-right: 15px;
+	padding: 3%;
+	height: 190px;
+	width: 290px;
+	border: 2px;
+	background-color: rgb(200, 230, 242);
+}
+.div3-2 {
+	margin-right: 15px;
+	padding: 3%;
+	height: 190px;
+	width: 290px;
+	border: 2px;
+	background-color: rgb(221, 137, 137);
+}
+.div3-3 {
+	padding: 3%;
+	height: 190px;
+	width: 290px;
+	border: 2px;
+	background-color: cornsilk;
+}
+.div4 {
+	font-size: 18px;
+	display: flex;
+	padding: 5%;
+}
+.div4-1 {
+	font-size: 16px;
+	margin-bottom: 40px;
+	width: 40%;
+	margin-left: 10%;
+}
+.div4-2 {
+	width: 40%;
+	margin-left: 3%;
+}
